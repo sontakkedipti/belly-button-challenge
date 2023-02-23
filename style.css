@@ -1,0 +1,37 @@
+body {
+	background-image: url("data/bg.jpeg");
+	background-color: #cccccc;
+   }
+
+.jumbotron {
+	color: #49a81d;
+	background: #b5dcf7;
+	font-family: Arial, Helvetica, sans-serif;
+    padding-left: 80px;
+
+}
+
+#metaPanel {
+	font-size: smaller;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #49a81d;
+	background: #95c5f1;
+}
+
+#metaPanel .panel-header {
+    text-align: center;
+}
+
+#selDataset {
+	height: 65px;
+	width: 155px;
+	padding: 15px;
+    color: black;
+}
+
+#samplePanel {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	color: #49a81d;
+	background: #86d7e6;
+}
